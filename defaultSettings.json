@@ -1,0 +1,12 @@
+{
+    "prefix": "-",
+    "autoroles": {
+        "roles": [],
+        "enabled": false
+    },
+    "modlog": "none",
+    "muterole": "none",
+    "djrole": "none",
+    "dj": ["loop", "pause", "resume", "shuffle", "skip", "stop", "volume"],
+    "commands": {}
+}
